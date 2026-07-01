@@ -1,0 +1,9 @@
+[
+  {"word": "automatisieren", "translation": "автоматизировать"},
+  {"word": "verarbeiten", "translation": "обрабатывать (данные)"},
+  {"word": "speichern", "translation": "сохранять / хранить (в БД)"},
+  {"word": "bereitstellen", "translation": "развертывать (deploy) / предоставлять"},
+  {"word": "abfragen", "translation": "запрашивать (делать query)"},
+  {"word": "implementieren", "translation": "внедрять / реализовывать код"},
+  {"word": "skalieren", "translation": "масштабировать (систему)"}
+]
