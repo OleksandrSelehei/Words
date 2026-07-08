@@ -1,9 +1,9 @@
 [
-  {"word": "bereitstellen", "translation": "развертывать (deploy) / предоставлять"},
-  {"word": "erstellen", "translation": "создавать"},
-  {"word": "optimieren", "translation": "оптимизировать"},
-  {"word": "analysieren", "translation": "анализировать"},
-  {"word": "integrieren", "translation": "интегрировать"},
-  {"word": "überwachen", "translation": "мониторить / контролировать"},
-  {"word": "konfigurieren", "translation": "настраивать"}
+  {"word": "beheben", "translation": "исправлять / устранять (ошибки, баги)"},
+  {"word": "verwalten", "translation": "управлять / администрировать (manage)"},
+  {"word": "freigeben", "translation": "релизить / одобрять / открывать доступ (release / approve)"},
+  {"word": "ausführen", "translation": "выполнять / запускать (например, скрипт - execute / run)"},
+  {"word": "zusammenführen", "translation": "сливать / объединять (например, пулл-реквест - merge)"},
+  {"word": "neustarten", "translation": "перезапускать (сервер или службу - restart)"},
+  {"word": "zuweisen", "translation": "назначать (например, тикет в Jira - assign)"}
 ]
