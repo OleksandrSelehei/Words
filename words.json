@@ -1,9 +1,9 @@
 [
-  {"word": "beheben", "translation": "исправлять / устранять (ошибки, баги)"},
-  {"word": "verwalten", "translation": "управлять / администрировать (manage)"},
-  {"word": "freigeben", "translation": "релизить / одобрять / открывать доступ (release / approve)"},
-  {"word": "ausführen", "translation": "выполнять / запускать (например, скрипт - execute / run)"},
-  {"word": "zusammenführen", "translation": "сливать / объединять (например, пулл-реквест - merge)"},
-  {"word": "neustarten", "translation": "перезапускать (сервер или службу - restart)"},
-  {"word": "zuweisen", "translation": "назначать (например, тикет в Jira - assign)"}
+  {"word": "beheben", "translation": "исправлять / устранять (ошибки в коде или данных)"},
+  {"word": "zuweisen", "translation": "назначать (задачи в Jira / роли пользователям)"},
+  {"word": "verknüpfen", "translation": "связывать / объединять (делать JOIN)"},
+  {"word": "bereinigen", "translation": "очищать (проводить предобработку данных / data cleaning)"},
+  {"word": "auswerten", "translation": "анализировать / оценивать (интерпретировать результаты)"},
+  {"word": "aggregieren", "translation": "агрегировать / группировать (использовать GROUP BY / SUM / AVG)"},
+  {"word": "extrahieren", "translation": "извлекать (данные из источника / делать выгрузку / ETL)"}
 ]
